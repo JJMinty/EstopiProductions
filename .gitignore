@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Distribution files
+/dist/
+
+# Environment files
+.env
+
+# Other common development files
+*.log
+.DS_Store
+*.tmp
