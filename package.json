@@ -1,0 +1,14 @@
+{"name": "estopi-productions",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "framer-motion": "^4.0.0",
+    "lucide-react": "^0.1.0",
+    "tailwindcss": "^2.0.0"
+  }
+}
